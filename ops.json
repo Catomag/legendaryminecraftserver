@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "ee83c945-56f8-4259-963a-274e873c0b26",
+    "name": "AirMarshal",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c05738a4-ac89-4a81-879e-01116342950a",
+    "name": "catomag",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

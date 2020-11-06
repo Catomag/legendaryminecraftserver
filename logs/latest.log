@@ -1,0 +1,144 @@
+[12:23:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:23:45] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[12:23:46] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[12:23:47] [Worker-Main-4/INFO]: Loaded 7 recipes
+[12:23:50] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[12:23:50] [Server thread/INFO]: Loading properties
+[12:23:51] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-37d799b-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[12:23:51] [Server thread/INFO]: Debug logging is disabled
+[12:23:51] [Server thread/INFO]: Server Ping Player Sample Count: 2
+[12:23:51] [Server thread/INFO]: Using 5 threads for Netty based IO
+[12:23:51] [Server thread/INFO]: Default game type: SURVIVAL
+[12:23:51] [Server thread/INFO]: Generating keypair
+[12:23:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:23:52] [Server thread/INFO]: Using epoll channel type
+[12:23:52] [Server thread/INFO]: Preparing level "world"
+[12:23:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:23:55] [Server thread/INFO]: Preparing spawn area: 0%
+[12:23:55] [Server thread/INFO]: Preparing spawn area: 0%
+[12:23:55] [Server thread/INFO]: Preparing spawn area: 0%
+[12:23:55] [Server thread/INFO]: Preparing spawn area: 0%
+[12:23:55] [Server thread/INFO]: Preparing spawn area: 0%
+[12:23:55] [Server thread/INFO]: Preparing spawn area: 0%
+[12:23:56] [Server thread/INFO]: Preparing spawn area: 0%
+[12:23:56] [Server thread/INFO]: Preparing spawn area: 49%
+[12:23:57] [Server thread/INFO]: Preparing spawn area: 86%
+[12:23:57] [Server thread/INFO]: Time elapsed: 4557 ms
+[12:23:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:23:59] [Server thread/INFO]: Preparing spawn area: 0%
+[12:23:59] [Server thread/INFO]: Preparing spawn area: 0%
+[12:23:59] [Server thread/INFO]: Preparing spawn area: 0%
+[12:23:59] [Server thread/INFO]: Preparing spawn area: 0%
+[12:23:59] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[12:24:00] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[12:24:00] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[12:24:01] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[12:24:01] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[12:24:02] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[12:24:02] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[12:24:03] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[12:24:03] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[12:24:04] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[12:24:04] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[12:24:05] [Worker-Main-4/INFO]: Preparing spawn area: 85%
+[12:24:05] [Worker-Main-6/INFO]: Preparing spawn area: 89%
+[12:24:06] [Worker-Main-4/INFO]: Preparing spawn area: 90%
+[12:24:06] [Worker-Main-5/INFO]: Preparing spawn area: 90%
+[12:24:07] [Worker-Main-6/INFO]: Preparing spawn area: 95%
+[12:24:07] [Server thread/INFO]: Time elapsed: 9629 ms
+[12:24:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:24:07] [Server thread/INFO]: Preparing spawn area: 0%
+[12:24:07] [Server thread/INFO]: Preparing spawn area: 0%
+[12:24:08] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[12:24:08] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[12:24:09] [Worker-Main-6/INFO]: Preparing spawn area: 96%
+[12:24:09] [Server thread/INFO]: Time elapsed: 2084 ms
+[12:24:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:24:09] [Server thread/INFO]: Done (16.810s)! For help, type "help"
+[12:24:16] [User Authenticator #1/INFO]: UUID of player catomag is c05738a4-ac89-4a81-879e-01116342950a
+[12:24:16] [Server thread/WARN]: Using offline mode UUID file for player catomag as it is the only copy we can find.
+[12:24:16] [Server thread/INFO]: catomag has made the advancement [Stone Age]
+[12:24:16] [Server thread/INFO]: catomag has made the advancement [Acquire Hardware]
+[12:24:16] [Server thread/INFO]: catomag has made the advancement [Getting an Upgrade]
+[12:24:16] [Server thread/INFO]: catomag[/114.78.221.173:51230] logged in with entity id 119 at ([world]-26.86397162255684, 14.0, -1229.2527504675393)
+[12:24:25] [User Authenticator #2/INFO]: UUID of player AirMarshal is ee83c945-56f8-4259-963a-274e873c0b26
+[12:24:25] [Server thread/WARN]: Using offline mode UUID file for player AirMarshal as it is the only copy we can find.
+[12:24:25] [Server thread/INFO]: AirMarshal has made the advancement [Stone Age]
+[12:24:25] [Server thread/INFO]: AirMarshal has made the advancement [Acquire Hardware]
+[12:24:25] [Server thread/INFO]: AirMarshal has made the advancement [Getting an Upgrade]
+[12:24:25] [Server thread/INFO]: AirMarshal has made the advancement [Isn't It Iron Pick]
+[12:24:25] [Server thread/INFO]: AirMarshal[/101.112.249.203:54732] logged in with entity id 177 at ([world]-1104.300000011921, 34.0, 43.58158443383087)
+[12:24:33] [Async Chat Thread - #0/INFO]: <AirMarshal> t[m
+[12:24:47] [Server thread/INFO]: Nothing changed. The player already is an operator
+[12:24:53] [Server thread/INFO]: AirMarshal issued server command: /op
+[12:24:55] [Server thread/INFO]: AirMarshal issued server command: /op
+[12:25:05] [Server thread/INFO]: AirMarshal issued server command: /team add Red
+[12:25:05] [Server thread/INFO]: [AirMarshal: Created team [Red]]
+[12:25:07] [Server thread/INFO]: AirMarshal issued server command: /team add Green
+[12:25:07] [Server thread/INFO]: [AirMarshal: Created team [Green]]
+[12:25:09] [Server thread/INFO]: AirMarshal issued server command: /team add Blue
+[12:25:09] [Server thread/INFO]: [AirMarshal: Created team [Blue]]
+[12:25:13] [Server thread/INFO]: AirMarshal issued server command: /team add Orange
+[12:25:13] [Server thread/INFO]: [AirMarshal: Created team [Orange]]
+[12:25:25] [Server thread/INFO]: AirMarshal issued server command: /team modify Red friendlyFire false
+[12:25:25] [Server thread/INFO]: [AirMarshal: Disabled friendly fire for team [Red]]
+[12:25:29] [Server thread/INFO]: AirMarshal issued server command: /team modify Green friendlyFire false
+[12:25:29] [Server thread/INFO]: [AirMarshal: Disabled friendly fire for team [Green]]
+[12:25:32] [Server thread/INFO]: AirMarshal issued server command: /team modify Blue friendlyFire false
+[12:25:32] [Server thread/INFO]: [AirMarshal: Disabled friendly fire for team [Blue]]
+[12:25:36] [Server thread/INFO]: AirMarshal issued server command: /team modify Orange friendlyFire false
+[12:25:36] [Server thread/INFO]: [AirMarshal: Disabled friendly fire for team [Orange]]
+[12:25:43] [Server thread/INFO]: AirMarshal issued server command: /team modify Orange color gold
+[12:25:43] [Server thread/INFO]: [AirMarshal: Updated the color for team [Orange] to gold]
+[12:25:48] [Server thread/INFO]: AirMarshal issued server command: /team modify Red color red
+[12:25:48] [Server thread/INFO]: [AirMarshal: Updated the color for team [Red] to red]
+[12:25:58] [Server thread/INFO]: AirMarshal issued server command: /team modify Green color dark_green
+[12:25:58] [Server thread/INFO]: [AirMarshal: Updated the color for team [Green] to dark_green]
+[12:26:16] [Server thread/INFO]: AirMarshal issued server command: /team modify Blue color aqua
+[12:26:16] [Server thread/INFO]: [AirMarshal: Updated the color for team [Blue] to aqua]
+[12:26:23] [Server thread/INFO]: AirMarshal issued server command: /scoreboard
+[12:26:24] [Server thread/INFO]: catomag issued server command: /team join Blue catomag
+[12:26:24] [Server thread/INFO]: [catomag: Added catomag to team [Blue]]
+[12:26:27] [Server thread/INFO]: AirMarshal issued server command: /scoreboard objectives
+[12:26:30] [Server thread/INFO]: catomag issued server command: /team join Blue Incognymus
+[12:26:30] [Server thread/INFO]: [catomag: Added Incognymus to team [Blue]]
+[12:26:34] [Server thread/INFO]: catomag issued server command: /team join Blue Incognyms
+[12:26:34] [Server thread/INFO]: [catomag: Added Incognyms to team [Blue]]
+[12:26:35] [Server thread/INFO]: AirMarshal issued server command: /scoreboard objectives add Deaths deathCount
+[12:26:35] [Server thread/INFO]: [AirMarshal: Created new objective [Deaths]]
+[12:26:45] [Server thread/INFO]: AirMarshal issued server command: /scoreboard objectives setdisplay
+[12:26:48] [Server thread/INFO]: AirMarshal issued server command: /scoreboard objectives setdisplay s
+[12:26:52] [Server thread/INFO]: AirMarshal issued server command: /scoreboard objectives setdisplay sidebar
+[12:26:58] [Server thread/INFO]: AirMarshal issued server command: /scoreboard objectives setdisplay Deaths sidebar
+[12:27:11] [Server thread/INFO]: AirMarshal issued server command: /scoreboard objectives setdisplay sidebar Deaths
+[12:27:11] [Server thread/INFO]: [AirMarshal: Set display slot sidebar to show objective Deaths]
+[12:27:29] [Server thread/INFO]: AirMarshal issued server command: /scoreboard objectives add Health health
+[12:27:29] [Server thread/INFO]: [AirMarshal: Created new objective [Health]]
+[12:27:38] [Server thread/INFO]: AirMarshal issued server command: /scoreboard objectives setdisplay list Health
+[12:27:38] [Server thread/INFO]: [AirMarshal: Set display slot list to show objective Health]
+[12:28:02] [Server thread/INFO]: AirMarshal issued server command: /team join Green
+[12:28:02] [Server thread/INFO]: [AirMarshal: Added AirMarshal to team [Green]]
+[12:28:09] [Server thread/INFO]: AirMarshal issued server command: /team join Green HamterTV
+[12:28:09] [Server thread/INFO]: [AirMarshal: Added HamterTV to team [Green]]
+[12:28:55] [Server thread/INFO]: catomag issued server command: /team join Orange WarmerBreakfast
+[12:28:55] [Server thread/INFO]: [catomag: Added WarmerBreakfast to team [Orange]]
+[12:29:35] [Server thread/INFO]: catomag issued server command: /team join Orange RealmsYT
+[12:29:35] [Server thread/INFO]: [catomag: Added RealmsYT to team [Orange]]
+[12:31:09] [Server thread/INFO]: catomag issued server command: /team join Blue TSM_N
+[12:31:09] [Server thread/INFO]: [catomag: Added TSM_N to team [Blue]]
+[12:31:24] [Server thread/INFO]: catomag issued server command: /team join Blue Incognymous
+[12:31:24] [Server thread/INFO]: [catomag: Added Incognymous to team [Blue]]
+[12:31:42] [Server thread/INFO]: AirMarshal lost connection: Disconnected
+[12:31:42] [Server thread/INFO]: AirMarshal left the game
+[12:31:48] [Server thread/INFO]: catomag issued server command: /team join Orange Captain_Ocron
+[12:31:48] [Server thread/INFO]: [catomag: Added Captain_Ocron to team [Orange]]
+[12:31:58] [Server thread/INFO]: catomag issued server command: /team join Red Spyno223
+[12:31:58] [Server thread/INFO]: [catomag: Added Spyno223 to team [Red]]
+[12:33:26] [Server thread/INFO]: catomag issued server command: /team join Red marel410
+[12:33:26] [Server thread/INFO]: [catomag: Added marel410 to team [Red]]
+[12:33:38] [Server thread/INFO]: catomag issued server command: /team join Red Firestone_264
+[12:33:38] [Server thread/INFO]: [catomag: Added Firestone_264 to team [Red]]
+[12:33:40] [Server thread/INFO]: catomag issued server command: /team join Red Firestone264
+[12:33:40] [Server thread/INFO]: [catomag: Added Firestone264 to team [Red]]
+[12:33:45] [Server thread/INFO]: catomag lost connection: Disconnected
+[12:33:45] [Server thread/INFO]: catomag left the game
